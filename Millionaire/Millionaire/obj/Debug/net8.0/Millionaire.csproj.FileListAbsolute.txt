@@ -1,0 +1,15 @@
+C:\Users\cagda\source\repos\Millionaire\Millionaire\bin\Debug\net8.0\Millionaire.exe
+C:\Users\cagda\source\repos\Millionaire\Millionaire\bin\Debug\net8.0\Millionaire.deps.json
+C:\Users\cagda\source\repos\Millionaire\Millionaire\bin\Debug\net8.0\Millionaire.runtimeconfig.json
+C:\Users\cagda\source\repos\Millionaire\Millionaire\bin\Debug\net8.0\Millionaire.dll
+C:\Users\cagda\source\repos\Millionaire\Millionaire\bin\Debug\net8.0\Millionaire.pdb
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\Millionaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\Millionaire.AssemblyInfoInputs.cache
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\Millionaire.AssemblyInfo.cs
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\Millionaire.csproj.CoreCompileInputs.cache
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\Millionaire.dll
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\refint\Millionaire.dll
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\Millionaire.pdb
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\Millionaire.genruntimeconfig.cache
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\ref\Millionaire.dll
+C:\Users\cagda\source\repos\Millionaire\Millionaire\obj\Debug\net8.0\Millionaire.sourcelink.json
